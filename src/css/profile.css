@@ -1,0 +1,48 @@
+
+.whole{
+    position: absolute ;
+    height: 100%;
+    width: 100%;
+}
+
+.photo{
+    position: absolute;
+    top:50px;
+    left:50px;
+    height: 35%;
+    width: 35%;
+
+}
+.logo{
+    position: absolute;
+    left: 60%;
+}
+
+.curInfo{
+    position: absolute;
+    top:350px;
+    left:50px;
+    height: 350px;
+    width: 35%;
+    /* background-color: antiquewhite; */
+}
+.perimgage{
+    height: 150px;
+    width: 80%;
+    margin-bottom: 20px;
+}
+.spans{
+    
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.update{
+    position: absolute;
+    top:300px;
+    right:50px;
+    height: 400px;
+    width: 45%;
+    /* background-color: antiquewhite; */
+}
+
+

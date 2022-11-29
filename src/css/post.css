@@ -1,0 +1,15 @@
+.cols col{
+    width: 300px;
+}
+.cardpost card{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.postimg{
+    width: 250px;
+    height: 250px;
+}
+.btn2{
+    margin-left: 20px;
+}
